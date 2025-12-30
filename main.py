@@ -192,5 +192,5 @@ async def on_message(message):
 
     save_db(db)
 
-client.run("MTQ1NTI5NTA2NzkxNjA3NTA0OQ.GPc2rE.vOiUDOGRvecH1e2E3-da1rfcYkwOyGaMT-k2og")
+client.run("MTQ1NTI5NTA2NzkxNjA3NTA0OQ.GB3uhg.JYPcSnCA8jT_9SEVtECDbsmuAUdg58cN8eWLRE")
       
